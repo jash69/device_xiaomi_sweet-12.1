@@ -8,6 +8,7 @@ $(call inherit-product, device/xiaomi/sweet/device.mk)
 # Inherit common Derpfest configurations
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
+DERP_BUILDTYPE := Official
 PRODUCT_NAME := derpfest_sweet
 PRODUCT_DEVICE := sweet
 PRODUCT_BRAND := Redmi
