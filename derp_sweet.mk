@@ -9,7 +9,7 @@ $(call inherit-product, device/xiaomi/sweet/device.mk)
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
 DERP_BUILDTYPE := Official
-PRODUCT_NAME := derpfest_sweet
+PRODUCT_NAME := derp_sweet
 PRODUCT_DEVICE := sweet
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10 Pro
