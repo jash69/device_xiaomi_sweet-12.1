@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_sweet.mk
+    $(LOCAL_DIR)/superior_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_sweet-eng \
-    derp_sweet-userdebug \
-    derp_sweet-user
+    superior_sweet-eng \
+    superior_sweet-userdebug \
+    superior_sweet-user
